@@ -1,0 +1,1070 @@
+[
+    {
+        "id": 1,
+        "name": "Li Chen",
+        "experience_years": 15,
+        "likes": [
+            "Sichuan cuisine",
+            "spicy food"
+        ],
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ken_Hom_holding_wok.jpg",
+        "recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb chicken breast, cut into small cubes",
+                    "1/2 cup roasted peanuts",
+                    "3-4 dried red chilies",
+                    "3 cloves garlic, minced",
+                    "1 inch ginger, minced",
+                    "1 tbsp Sichuan peppercorns",
+                    "2 green onions, chopped",
+                    "2 tbsp vegetable oil",
+                    "1 tbsp cornstarch",
+                    "2 tbsp soy sauce",
+                    "1 tbsp Shaoxing wine",
+                    "1 tsp sugar"
+                ],
+                "instructions": [
+                    "Marinate the chicken in cornstarch, soy sauce, and Shaoxing wine for 15-20 minutes.",
+                    "Heat the oil in a wok over high heat. Add the chicken and stir-fry until browned and cooked through, about 5-6 minutes.",
+                    "Add the garlic, ginger, dried chilies, and Sichuan peppercorns. Stir-fry for another minute.",
+                    "Add the green onions and roasted peanuts. Stir-fry for 1-2 minutes.",
+                    "Remove from heat and serve hot with rice."
+                ]
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "1 lb fresh egg noodles",
+                    "1/2 lb ground pork",
+                    "2 tbsp chili oil",
+                    "2 tbsp Sichuan peppercorn oil",
+                    "1 tbsp minced garlic",
+                    "1 tbsp minced ginger",
+                    "2 tbsp light soy sauce",
+                    "1 tbsp dark soy sauce",
+                    "1/2 tsp sugar",
+                    "2 tbsp Sichuan peppercorns",
+                    "1/4 cup chopped scallions",
+                    "1/4 cup chopped cilantro"
+                ],
+                "instructions": [
+                    "Cook the noodles according to package instructions and set aside.",
+                    "Heat a wok over high heat. Add the pork and stir-fry until browned and cooked through, about 5-6 minutes.",
+                    "Add the garlic and ginger and stir-fry for another minute.",
+                    "Add the chili oil, Sichuan peppercorn oil, light soy sauce, dark soy sauce, and sugar. Stir-fry for another minute.",
+                    "Add the cooked noodles and toss everything together. Plate the noodles and garnish with chopped scallions and cilantro."
+                ]
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "1 lb soft or silken tofu, cut into small cubes",
+                    "1/2 lb ground pork",
+                    "2 tbsp vegetable oil",
+                    "1 tbsp minced garlic",
+                    "1 tbsp minced ginger",
+                    "2 tbsp doubanjiang (spicy bean paste)",
+                    "2 tbsp fermented black beans",
+                    "1 tbsp Sichuan peppercorns",
+                    "2 green onions, chopped",
+                    "1 tbsp cornstarch",
+                    "2 tbsp water"
+                ],
+                "instructions": [
+                    "Mix the cornstarch and water in a small bowl and set aside.",
+                    "Heat the oil in a wok over high heat. Add the pork and stir-fry until browned and cooked through, about 5-6 minutes.",
+                    "Add the garlic, ginger, doubanjiang, fermented black beans, and Sichuan peppercorns. Stir-fry for another minute.",
+                    "Add the tofu and gently stir everything together, being careful not to break up the tofu too much.",
+                    "Pour in the cornstarch slurry and stir gently to thicken the sauce.",
+                    "Remove from heat and serve hot with rice."
+                ]
+            },
+            {
+                "name": "Ma La Tang (Spicy Hot Pot)",
+                "ingredients": [
+                    "1 lb beef sirloin, thinly sliced",
+                    "1 lb lamb shoulder, thinly sliced",
+                    "1 lb shrimp, peeled and deveined",
+                    "1/2 cup enoki mushrooms",
+                    "1/2 cup sliced lotus root",
+                    "1/2 cup sliced wood ear mushrooms",
+                    "1/2 cup baby bok choy",
+                    "1/2 cup sliced carrots",
+                    "1/2 cup sliced celery",
+                    "1/2 cup sliced radish",
+                    "1/2 cup sliced Napa cabbage",
+                    "2 tbsp vegetable oil",
+                    "1 tbsp Sichuan peppercorns",
+                    "1/4 cup chili oil",
+                    "1/4 cup Sichuan peppercorn oil",
+                    "1/4 cup soy sauce",
+                    "1/4 cup Shaoxing wine",
+                    "1 tbsp sugar"
+                ],
+                "instructions": [
+                    "Fill a large pot with water and bring it to aboil over high heat.",
+                    "In the meantime, prepare all the ingredients and set them aside.",
+                    "Heat a small saucepan over medium-high heat. Add the vegetable oil and Sichuan peppercorns, and stir-fry until fragrant, about 1 minute.",
+                    "Add the chili oil, Sichuan peppercorn oil, soy sauce, Shaoxing wine, and sugar to the saucepan. Stir everything together and remove from heat.",
+                    "Once the water is boiling, reduce the heat to medium-low. Place all the prepared ingredients on plates and bowls and bring them to the table.",
+                    "To assemble the hot pot, let each person choose the ingredients they want to cook and add them to the pot. Cook for about 1-2 minutes or until the meat is cooked through.",
+                    "Remove the cooked ingredients from the pot and dip them in the sauce before eating.",
+                    "Enjoy your spicy hot pot!"
+                ]
+            },
+            {
+                "name": "Sichuan Boiled Beef (Shui Zhu Niu Rou)",
+                "ingredients": [
+                    "1 lb beef sirloin, thinly sliced",
+                    "2 cups beef stock or water",
+                    "1/4 cup Sichuan peppercorns",
+                    "1/4 cup chili bean paste",
+                    "1/4 cup fermented black beans",
+                    "1/4 cup vegetable oil",
+                    "2 tbsp minced garlic",
+                    "2 tbsp minced ginger",
+                    "2 green onions, chopped",
+                    "2 tbsp cornstarch",
+                    "2 tbsp water"
+                ],
+                "instructions": [
+                    "Mix the cornstarch and water in a small bowl and set aside.",
+                    "Heat a wok over high heat. Add the Sichuan peppercorns and dry fry until fragrant, about 1 minute.",
+                    "Add the chili bean paste, fermented black beans, vegetable oil, garlic, and ginger. Stir-fry for another minute.",
+                    "Add the beef stock or water and bring to a boil.",
+                    "Add the beef slices and cook until just cooked through, about 2-3 minutes.",
+                    "Stir in the cornstarch slurry and cook until the sauce thickens.",
+                    "Remove from heat and garnish with chopped green onions before serving hot with rice."
+                ]
+            },
+            {
+                "name": "Shanghai-style Braised Pork Belly (Hong Shao Rou)",
+                "ingredients": [
+                    "1 lb pork belly, cut into small cubes",
+                    "2 cups water",
+                    "1/4 cup Shaoxing wine",
+                    "1/4 cup dark soy sauce",
+                    "1 tbsp light soy sauce",
+                    "1 tbsp rock sugar or granulated sugar",
+                    "3 slices ginger",
+                    "1 star anise",
+                    "2 green onions, chopped"
+                ],
+                "instructions": [
+                    "Add the pork belly to a pot of boiling water and blanch for 5 minutes. Drain and set aside.",
+                    "In another pot, add the water, Shaoxing wine, dark soy sauce, light soy sauce, rock sugar, ginger, and star anise. Stir everything together and bring to a boil.",
+                    "Add the blanched pork belly to the pot and bring back to a boil.",
+                    "Reduce the heat to low and simmer, covered, for about 60-90 minutes or until the pork belly is tenderand the sauce has thickened.",
+                    "Remove from heat and garnish with chopped green onions before serving hot with rice."
+                ]
+            },
+            {
+                "name": "Scallion Pancakes",
+                "ingredients": [
+                    "2 cups all-purpose flour",
+                    "1 tsp salt",
+                    "3/4 cup boiling water",
+                    "1/4 cup vegetable oil",
+                    "3 scallions, thinly sliced"
+                ],
+                "instructions": [
+                    "In a mixing bowl, combine flour and salt. Mix well.",
+                    "Slowly add boiling water to the mixture while stirring continuously until a dough forms.",
+                    "Knead the dough on a floured surface for about 5 minutes or until smooth.",
+                    "Divide the dough into 8 equal pieces and roll each piece out into a thin circle.",
+                    "Brush each circle with vegetable oil and sprinkle with scallions.",
+                    "Roll up each circle tightly like a jelly roll and then coil it into a snail shape.",
+                    "Flatten each coiled piece of dough with your palm and then use a rolling pin to roll it out again into a thin pancake.",
+                    "Heat a skillet over medium-high heat and cook each pancake for about 2-3 minutes on each side or until golden brown and crispy.",
+                    "Remove from heat and serve hot with soy sauce for dipping."
+                ]
+            },
+            {
+                "name": "Shanghai-style Fried Rice",
+                "ingredients": [
+                    "2 cups cooked rice, cooled",
+                    "1/2 cup diced ham",
+                    "1/2 cup frozen peas, thawed",
+                    "2 eggs, beaten",
+                    "2 tbsp vegetable oil",
+                    "2 cloves garlic, minced",
+                    "2 tbsp soy sauce",
+                    "1 tbsp Shaoxing wine",
+                    "1 tsp sugar",
+                    "2 green onions, chopped"
+                ],
+                "instructions": [
+                    "Heat a wok over high heat. Add the vegetable oil and garlic, and stir-fry for 30 seconds.",
+                    "Add the ham and peas, and stir-fry for another minute.",
+                    "Push everything to the side of the wok and add in the beaten eggs. Scramble the eggs until they are cooked through.",
+                    "Add the rice to the wok and stir-fry everything together.",
+                    "Add the soy sauce, Shaoxing wine, and sugar, and stir-fry for another 1-2 minutes or until everything is heated through.",
+                    "Remove from heat and garnish with chopped green onions before serving hot."
+                ]
+            },
+            {
+                "name": "Stir-fried Shanghai Greens (You Cai)",
+                "ingredients": [
+                    "1 lb Shanghai greens (you cai) or baby bok choy, washed and trimmed",
+                    "1 tbsp vegetable oil",
+                    "2 cloves garlic, minced",
+                    "1 tbsp oyster sauce",
+                    "1/4 cup water",
+                    "1 tsp sugar",
+                    "1/4 tsp salt"
+                ],
+                "instructions": [
+                    "Heat a wok over high heat. Add the vegetable oil and garlic, stir-fry for 30 seconds.",
+                    "Add the Shanghai greens or baby bok choy to the wok and stir-fry for 1-2 minutes or until just wilted.",
+                    "Add the oyster sauce, water, sugar, and salt, and continue stir-frying for another minute or until the greens are coated in the sauce and tender.",
+                    "Remove from heat and serve hot as a side dish."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Wei Zhang",
+        "experience_years": 20,
+        "likes": [
+            "Shanghai cuisine",
+            "dumplings"
+        ],
+        "picture_url": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/about-1_645X.jpg?v=1628774387",
+        "recipes": [
+            {
+                "name": "Xiao Long Bao (Soup Dumplings)",
+                "ingredients": [
+                    "1 lb ground pork",
+                    "1/4 cup chopped bamboo shoots",
+                    "1/4 cup chopped shiitake mushrooms",
+                    "2 tbsp chopped scallions",
+                    "2 tbsp soy sauce",
+                    "2 tbsp Shaoxing wine",
+                    "1 tbsp sesame oil",
+                    "1 tsp sugar",
+                    "1/2 tsp salt",
+                    "1/4 tsp white pepper",
+                    "1/2 cup cold chicken stock or water",
+                    "1 package of dumpling wrappers"
+                ],
+                "instructions": [
+                    "Mix the ground pork with the bamboo shoots, shiitake mushrooms, scallions, soy sauce, Shaoxing wine, sesame oil, sugar, salt, and white pepper in a bowl. Stir everything together well.",
+                    "Add the chicken stock or water and stir until it is completely incorporated into the filling mixture.",
+                    "Take a dumpling wrapper and place a heaping tablespoon of the filling in the center. Seal the dumpling by folding the edges together to form pleats.",
+                    "Place the dumplings in a bamboo steamer and steam over high heat for about 8-10 minutes.",
+                    "Remove from heat and serve hot with soy sauce or black vinegar for dipping."
+                ]
+            },
+            {
+                "name": "Shanghai-style Braised Pork Belly (Hong Shao Rou)",
+                "ingredients": [
+                    "1 lb pork belly, cut into small cubes",
+                    "2 cups water",
+                    "1/4 cup Shaoxing wine",
+                    "1/4 cup dark soy sauce",
+                    "1 tbsp light soy sauce",
+                    "1 tbsp rock sugar or granulated sugar",
+                    "3 slices ginger",
+                    "1 star anise",
+                    "2 green onions, chopped"
+                ],
+                "instructions": [
+                    "Add the pork belly to a pot of boiling water and blanch for 5 minutes. Drain and set aside.",
+                    "In another pot, add the water, Shaoxing wine, dark soy sauce, light soy sauce, rock sugar, ginger, and star anise. Stir everything together and bring to a boil.",
+                    "Add the blanched pork belly to the pot and bring back to a boil.",
+                    "Reduce the heat to low and simmer, covered, for about 60-90 minutes or until the pork belly is tenderand the sauce has thickened.",
+                    "Remove from heat and garnish with chopped green onions before serving hot with rice."
+                ]
+            },
+            {
+                "name": "Scallion Pancakes",
+                "ingredients": [
+                    "2 cups all-purpose flour",
+                    "1 tsp salt",
+                    "3/4 cup boiling water",
+                    "1/4 cup vegetable oil",
+                    "3 scallions, thinly sliced"
+                ],
+                "instructions": [
+                    "In a mixing bowl, combine flour and salt. Mix well.",
+                    "Slowly add boiling water to the mixture while stirring continuously until a dough forms.",
+                    "Knead the dough on a floured surface for about 5 minutes or until smooth.",
+                    "Divide the dough into 8 equal pieces and roll each piece out into a thin circle.",
+                    "Brush each circle with vegetable oil and sprinkle with scallions.",
+                    "Roll up each circle tightly like a jelly roll and then coil it into a snail shape.",
+                    "Flatten each coiled piece of dough with your palm and then use a rolling pin to roll it out again into a thin pancake.",
+                    "Heat a skillet over medium-high heat and cook each pancake for about 2-3 minutes on each side or until golden brown and crispy.",
+                    "Remove from heat and serve hot with soy sauce for dipping."
+                ]
+            },
+            {
+                "name": "Shanghai-style Fried Rice",
+                "ingredients": [
+                    "2 cups cooked rice, cooled",
+                    "1/2 cup diced ham",
+                    "1/2 cup frozen peas, thawed",
+                    "2 eggs, beaten",
+                    "2 tbsp vegetable oil",
+                    "2 cloves garlic, minced",
+                    "2 tbsp soy sauce",
+                    "1 tbsp Shaoxing wine",
+                    "1 tsp sugar",
+                    "2 green onions, chopped"
+                ],
+                "instructions": [
+                    "Heat a wok over high heat. Add the vegetable oil and garlic, and stir-fry for 30 seconds.",
+                    "Add the ham and peas, and stir-fry for another minute.",
+                    "Push everything to the side of the wok and add in the beaten eggs. Scramble the eggs until they are cooked through.",
+                    "Add the rice to the wok and stir-fry everything together.",
+                    "Add the soy sauce, Shaoxing wine, and sugar, and stir-fry for another 1-2 minutes or until everything is heated through.",
+                    "Remove from heat and garnish with chopped green onions before serving hot."
+                ]
+            },
+            {
+                "name": "Stir-fried Shanghai Greens (You Cai)",
+                "ingredients": [
+                    "1 lb Shanghai greens (you cai) or baby bok choy, washed and trimmed",
+                    "1 tbsp vegetable oil",
+                    "2 cloves garlic, minced",
+                    "1 tbsp oyster sauce",
+                    "1/4 cup water",
+                    "1 tsp sugar",
+                    "1/4 tsp salt"
+                ],
+                "instructions": [
+                    "Heat a wok over high heat. Add the vegetable oil and garlic, stir-fry for 30 seconds.",
+                    "Add the Shanghai greens or baby bok choy to the wok and stir-fry for 1-2 minutes or until just wilted.",
+                    "Add the oyster sauce, water, sugar, and salt, and continue stir-frying for another minute or until the greens are coated in the sauce and tender.",
+                    "Remove from heat and serve hot as a side dish."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Xia Liu",
+        "experience_years": 10,
+        "likes": [
+            "Cantonese cuisine",
+            "seafood"
+        ],
+        "picture_url": "https://assets.vogue.in/photos/6035e55a97a6d928a4e6ea0c/2:3/w_2560%2Cc_limit/Chef%2520Andrew%2520Wong.jpg",
+        "recipes": [
+            {
+                "name": "Steamed Fish with Ginger and Scallions",
+                "ingredients": [
+                    "1 whole fish, cleaned and scaled (e.g., sea bass or red snapper)",
+                    "3 cloves garlic, minced",
+                    "2 inches ginger, julienned",
+                    "2 scallions, thinly sliced",
+                    "2 tbsp vegetable oil",
+                    "2 tbsp soy sauce",
+                    "1 tbsp Shaoxing wine",
+                    "1 tsp sugar",
+                    "1/4 cup water"
+                ],
+                "instructions": [
+                    "Place the whole fish on a heat-proof plate that will fit inside a steamer basket.",
+                    "Scatter the minced garlic, ginger, and sliced scallions all over the top of the fish.",
+                    "In a small bowl, mix together soy sauce, Shaoxing wine, sugar, and water. Pour this mixture over the fish.",
+                    "Fill a wok or large pot with about 1-2 inches of water and bring it to a boil over high heat.",
+                    "Place the plate with the fish in the steamer basket and carefully lower it into the wok or pot.",
+                    "Cover the steamer basket with a lid and steam the fish for about 10-15 minutes or until cooked through.",
+                    "Remove the steamer basket from the wok or pot and carefully remove the lid. Use a spoon to remove any excess water that may have collected on top of the fish.",
+                    "Heat the vegetable oil in a small saucepan over high heat. Once hot, pour the oil over the fish.",
+                    "Garnish with additional sliced scallions before serving hot with rice."
+                ]
+            },
+            {
+                "name": "Cantonese-style Lobster",
+                "ingredients": [
+                    "2 live lobsters (about 1 1/2 lbs each), cleaned and halved",
+                    "1/4 cup Shaoxing wine",
+                    "1/4 cup soy sauce",
+                    "1/4 cup oyster sauce",
+                    "1 tbsp sugar",
+                    "3 cloves garlic, minced",
+                    "2 inches ginger, julienned",
+                    "2 scallions, thinly sliced",
+                    "1/4 cup vegetable oil"
+                ],
+                "instructions": [
+                    "Preheat the broiler on high.",
+                    "In a mixing bowl, combine Shaoxing wine, soy sauce, oyster sauce, and sugar. Mix well.",
+                    "Place the lobster halves on a baking sheet, flesh side up, and brush them generously with the sauce mixture.",
+                    "Broil the lobster halves in the preheated oven for about 8-10 minutes or until the shells are red and the meat is cooked through.",
+                    "Meanwhile, heat the vegetable oil in a small saucepan over high heat. Once hot, add the minced garlic, ginger, and sliced scallions. Stir-fry for about 1 minute or until fragrant.",
+                    "Remove the lobster halves from the broiler and transfer them to a large platter. Pour the stir-fried garlic, ginger, and scallion mixture over the top of the lobster halves.",
+                    "Serve hot with rice."
+                ]
+            },
+            {
+                "name": "Wok-fried Clams with Black Bean Sauce",
+                "ingredients": [
+                    "2 lbs Manila clams, cleaned",
+                    "3 cloves garlic, minced",
+                    "2 inches ginger, julienned",
+                    "2 scallions, thinly sliced",
+                    "2 tbsp fermented black beans, rinsed and mashed with a fork",
+                    "1 tbsp soy sauce",
+                    "1 tbsp Shaoxing wine",
+                    "1 tsp sugar",
+                    "1/4 cup water",
+                    "2 tbsp vegetable oil"
+                ],
+                "instructions": [
+                    "Heat a wok over high heat. Add the vegetable oil and swirl it around to coat the wok.",
+                    "Add the minced garlic, ginger, and sliced scallions to the wok and stir-fry for about 30 seconds or until fragrant.",
+                    "Add the mashed fermented black beans to the wok and stir-fry for another 30 seconds.",
+                    "Add the cleaned Manila clams to the wok and stir-fry everything together.",
+                    "Add the soy sauce, Shaoxing wine, sugar, and water to the wok. Mix everything together and cover the wok with a lid.",
+                    "Cook for about 5-7 minutes or until all the clams have opened up.",
+                    "Remove from heat and discard any clams that did not open. Garnish with additional sliced scallions before serving hot with rice."
+                ]
+            },
+            {
+                "name": "Cantonese-style Steamed Spare Ribs with Black Bean Sauce",
+                "ingredients": [
+                    "1 lb pork spare ribs",
+                    "1 tbsp fermented black beans, rinsed and mashed with a fork",
+                    "2 cloves garlic, minced",
+                    "2 inches ginger, julienned",
+                    "2 scallions, thinly sliced",
+                    "2 tbsp soy sauce",
+                    "1 tbsp Shaoxing wine",
+                    "1 tsp sugar",
+                    "1/4 cup water",
+                    "1 tbsp vegetable oil"
+                ],
+                "instructions": [
+                    "Cut the pork spare ribs into bite-sized pieces and place them in a heat-proof plate that will fit inside a steamer basket.",
+                    "In a mixing bowl, combine mashed fermented black beans, minced garlic, julienned ginger, sliced scallions, soy sauce, Shaoxing wine, sugar, and water. Mix well.",
+                    "Pour this mixture over the pork spare ribs, making sure they are evenly coated.",
+                    "Fill a wok or large pot with about 1-2 inches of water and bring it to a boil over high heat.",
+                    "Place the plate with the pork spare ribs in the steamer basket and carefully lower it into the wok or pot.",
+                    "Cover the steamer basket with a lid and steam the pork spare ribs for about 30-40 minutes or until they are cooked through.",
+                    "Remove the steamer basket from the wok or pot and carefully remove the lid. Use a spoon to remove any excess water that may have collected on top of the pork spare ribs.",
+                    "Heat the vegetable oil in a small saucepan over high heat. Once hot, pour the oil over the pork spare ribs.",
+                    "Garnish with additional sliced scallions before serving hot with rice."
+                ]
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "1 lb fresh egg noodles",
+                    "1/2 lb ground pork",
+                    "2 tbsp chili oil",
+                    "2 tbsp Sichuan peppercorn oil",
+                    "1 tbsp minced garlic",
+                    "1 tbsp minced ginger",
+                    "2 tbsp light soy sauce",
+                    "1 tbsp dark soy sauce",
+                    "1/2 tsp sugar",
+                    "2 tbsp Sichuan peppercorns",
+                    "1/4 cup chopped scallions",
+                    "1/4 cup chopped cilantro"
+                ],
+                "instructions": [
+                    "Cook the noodles according to package instructions and set aside.",
+                    "Heat a wok over high heat. Add the pork and stir-fry until browned and cooked through, about 5-6 minutes.",
+                    "Add the garlic and ginger and stir-fry for another minute.",
+                    "Add the chili oil, Sichuan peppercorn oil, light soy sauce, dark soy sauce, and sugar. Stir-fry for another minute.",
+                    "Add the cooked noodles and toss everything together. Plate the noodles and garnish with chopped scallions and cilantro."
+                ]
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "1 lb soft or silken tofu, cut into small cubes",
+                    "1/2 lb ground pork",
+                    "2 tbsp vegetable oil",
+                    "1 tbsp minced garlic",
+                    "1 tbsp minced ginger",
+                    "2 tbsp doubanjiang (spicy bean paste)",
+                    "2 tbsp fermented black beans",
+                    "1 tbsp Sichuan peppercorns",
+                    "2 green onions, chopped",
+                    "1 tbsp cornstarch",
+                    "2 tbsp water"
+                ],
+                "instructions": [
+                    "Mix the cornstarch and water in a small bowl and set aside.",
+                    "Heat the oil in a wok over high heat. Add the pork and stir-fry until browned and cooked through, about 5-6 minutes.",
+                    "Add the garlic, ginger, doubanjiang, fermented black beans, and Sichuan peppercorns. Stir-fry for another minute.",
+                    "Add the tofu and gently stir everything together, being careful not to break up the tofu too much.",
+                    "Pour in the cornstarch slurry and stir gently to thicken the sauce.",
+                    "Remove from heat and serve hot with rice."
+                ]
+            },
+            {
+                "name": "Ma La Tang (Spicy Hot Pot)",
+                "ingredients": [
+                    "1 lb beef sirloin, thinly sliced",
+                    "1 lb lamb shoulder, thinly sliced",
+                    "1 lb shrimp, peeled and deveined",
+                    "1/2 cup enoki mushrooms",
+                    "1/2 cup sliced lotus root",
+                    "1/2 cup sliced wood ear mushrooms",
+                    "1/2 cup baby bok choy",
+                    "1/2 cup sliced carrots",
+                    "1/2 cup sliced celery",
+                    "1/2 cup sliced radish",
+                    "1/2 cup sliced Napa cabbage",
+                    "2 tbsp vegetable oil",
+                    "1 tbsp Sichuan peppercorns",
+                    "1/4 cup chili oil",
+                    "1/4 cup Sichuan peppercorn oil",
+                    "1/4 cup soy sauce",
+                    "1/4 cup Shaoxing wine",
+                    "1 tbsp sugar"
+                ],
+                "instructions": [
+                    "Fill a large pot with water and bring it to aboil over high heat.",
+                    "In the meantime, prepare all the ingredients and set them aside.",
+                    "Heat a small saucepan over medium-high heat. Add the vegetable oil and Sichuan peppercorns, and stir-fry until fragrant, about 1 minute.",
+                    "Add the chili oil, Sichuan peppercorn oil, soy sauce, Shaoxing wine, and sugar to the saucepan. Stir everything together and remove from heat.",
+                    "Once the water is boiling, reduce the heat to medium-low. Place all the prepared ingredients on plates and bowls and bring them to the table.",
+                    "To assemble the hot pot, let each person choose the ingredients they want to cook and add them to the pot. Cook for about 1-2 minutes or until the meat is cooked through.",
+                    "Remove the cooked ingredients from the pot and dip them in the sauce before eating.",
+                    "Enjoy your spicy hot pot!"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Li Huang",
+        "experience_years": 25,
+        "likes": [
+            "Sichuan cuisine",
+            "spicy food"
+        ],
+        "picture_url": "https://chinavillagealbany.com/wp-content/uploads/sites/17/2013/06/portraitjhon3.jpg",
+        "recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb chicken breast, cut into small cubes",
+                    "1/2 cup roasted peanuts",
+                    "3-4 dried red chilies",
+                    "3 cloves garlic, minced",
+                    "1 inch ginger, minced",
+                    "1 tbsp Sichuan peppercorns",
+                    "2 green onions, chopped",
+                    "2 tbsp vegetable oil",
+                    "1 tbsp cornstarch",
+                    "2 tbsp soy sauce",
+                    "1 tbsp Shaoxing wine",
+                    "1 tsp sugar"
+                ],
+                "instructions": [
+                    "Marinate the chicken in cornstarch, soy sauce, and Shaoxing wine for 15-20 minutes.",
+                    "Heat the oil in a wok over high heat. Add the chicken and stir-fry until browned and cooked through, about 5-6 minutes.",
+                    "Add the garlic, ginger, dried chilies, and Sichuan peppercorns. Stir-fry for another minute.",
+                    "Add the green onions and roasted peanuts. Stir-fry for 1-2 minutes.",
+                    "Remove from heat and serve hot with rice."
+                ]
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "1 lb fresh egg noodles",
+                    "1/2 lb ground pork",
+                    "2 tbsp chili oil",
+                    "2 tbsp Sichuan peppercorn oil",
+                    "1 tbsp minced garlic",
+                    "1 tbsp minced ginger",
+                    "2 tbsp light soy sauce",
+                    "1 tbsp dark soy sauce",
+                    "1/2 tsp sugar",
+                    "2 tbsp Sichuan peppercorns",
+                    "1/4 cup chopped scallions",
+                    "1/4 cup chopped cilantro"
+                ],
+                "instructions": [
+                    "Cook the noodles according to package instructions and set aside.",
+                    "Heat a wok over high heat. Add the pork and stir-fry until browned and cooked through, about 5-6 minutes.",
+                    "Add the garlic and ginger and stir-fry for another minute.",
+                    "Add the chili oil, Sichuan peppercorn oil, light soy sauce, dark soy sauce, and sugar. Stir-fry for another minute.",
+                    "Add the cooked noodles and toss everything together. Plate the noodles and garnish with chopped scallions and cilantro."
+                ]
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "1 lb soft or silken tofu, cut into small cubes",
+                    "1/2 lb ground pork",
+                    "2 tbsp vegetable oil",
+                    "1 tbsp minced garlic",
+                    "1 tbsp minced ginger",
+                    "2 tbsp doubanjiang (spicy bean paste)",
+                    "2 tbsp fermented black beans",
+                    "1 tbsp Sichuan peppercorns",
+                    "2 green onions, chopped",
+                    "1 tbsp cornstarch",
+                    "2 tbsp water"
+                ],
+                "instructions": [
+                    "Mix the cornstarch and water in a small bowl and set aside.",
+                    "Heat the oil in a wok over high heat. Add the pork and stir-fry until browned and cooked through, about 5-6 minutes.",
+                    "Add the garlic, ginger, doubanjiang, fermented black beans, and Sichuan peppercorns. Stir-fry for another minute.",
+                    "Add the tofu and gently stir everything together, being careful not to break up the tofu too much.",
+                    "Pour in the cornstarch slurry and stir gently to thicken the sauce.",
+                    "Remove from heat and serve hot with rice."
+                ]
+            },
+            {
+                "name": "Ma La Tang (Spicy Hot Pot)",
+                "ingredients": [
+                    "1 lb beef sirloin, thinly sliced",
+                    "1 lb lamb shoulder, thinly sliced",
+                    "1 lb shrimp, peeled and deveined",
+                    "1/2 cup enoki mushrooms",
+                    "1/2 cup sliced lotus root",
+                    "1/2 cup sliced wood ear mushrooms",
+                    "1/2 cup baby bok choy",
+                    "1/2 cup sliced carrots",
+                    "1/2 cup sliced celery",
+                    "1/2 cup sliced radish",
+                    "1/2 cup sliced Napa cabbage",
+                    "2 tbsp vegetable oil",
+                    "1 tbsp Sichuan peppercorns",
+                    "1/4 cup chili oil",
+                    "1/4 cup Sichuan peppercorn oil",
+                    "1/4 cup soy sauce",
+                    "1/4 cup Shaoxing wine",
+                    "1 tbsp sugar"
+                ],
+                "instructions": [
+                    "Fill a large pot with water and bring it to aboil over high heat.",
+                    "In the meantime, prepare all the ingredients and set them aside.",
+                    "Heat a small saucepan over medium-high heat. Add the vegetable oil and Sichuan peppercorns, and stir-fry until fragrant, about 1 minute.",
+                    "Add the chili oil, Sichuan peppercorn oil, soy sauce, Shaoxing wine, and sugar to the saucepan. Stir everything together and remove from heat.",
+                    "Once the water is boiling, reduce the heat to medium-low. Place all the prepared ingredients on plates and bowls and bring them to the table.",
+                    "To assemble the hot pot, let each person choose the ingredients they want to cook and add them to the pot. Cook for about 1-2 minutes or until the meat is cooked through.",
+                    "Remove the cooked ingredients from the pot and dip them in the sauce before eating.",
+                    "Enjoy your spicy hot pot!"
+                ]
+            },
+            {
+                "name": "Sichuan Boiled Beef (Shui Zhu Niu Rou)",
+                "ingredients": [
+                    "1 lb beef sirloin, thinly sliced",
+                    "2 cups beef stock or water",
+                    "1/4 cup Sichuan peppercorns",
+                    "1/4 cup chili bean paste",
+                    "1/4 cup fermented black beans",
+                    "1/4 cup vegetable oil",
+                    "2 tbsp minced garlic",
+                    "2 tbsp minced ginger",
+                    "2 green onions, chopped",
+                    "2 tbsp cornstarch",
+                    "2 tbsp water"
+                ],
+                "instructions": [
+                    "Mix the cornstarch and water in a small bowl and set aside.",
+                    "Heat a wok over high heat. Add the Sichuan peppercorns and dry fry until fragrant, about 1 minute.",
+                    "Add the chili bean paste, fermented black beans, vegetable oil, garlic, and ginger. Stir-fry for another minute.",
+                    "Add the beef stock or water and bring to a boil.",
+                    "Add the beef slices and cook until just cooked through, about 2-3 minutes.",
+                    "Stir in the cornstarch slurry and cook until the sauce thickens.",
+                    "Remove from heat and garnish with chopped green onions before serving hot with rice."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Yuang Le Son",
+        "experience_years": 20,
+        "likes": [
+            "Shanghai cuisine",
+            "dumplings"
+        ],
+        "picture_url": "https://www.manhomanila.com/resourcefiles/meet-the-chef-image/chan-chi-fai.jpg",
+        "recipes": [
+            {
+                "name": "Xiao Long Bao (Soup Dumplings)",
+                "ingredients": [
+                    "1 lb ground pork",
+                    "1/4 cup chopped bamboo shoots",
+                    "1/4 cup chopped shiitake mushrooms",
+                    "2 tbsp chopped scallions",
+                    "2 tbsp soy sauce",
+                    "2 tbsp Shaoxing wine",
+                    "1 tbsp sesame oil",
+                    "1 tsp sugar",
+                    "1/2 tsp salt",
+                    "1/4 tsp white pepper",
+                    "1/2 cup cold chicken stock or water",
+                    "1 package of dumpling wrappers"
+                ],
+                "instructions": [
+                    "Mix the ground pork with the bamboo shoots, shiitake mushrooms, scallions, soy sauce, Shaoxing wine, sesame oil, sugar, salt, and white pepper in a bowl. Stir everything together well.",
+                    "Add the chicken stock or water and stir until it is completely incorporated into the filling mixture.",
+                    "Take a dumpling wrapper and place a heaping tablespoon of the filling in the center. Seal the dumpling by folding the edges together to form pleats.",
+                    "Place the dumplings in a bamboo steamer and steam over high heat for about 8-10 minutes.",
+                    "Remove from heat and serve hot with soy sauce or black vinegar for dipping."
+                ]
+            },
+            {
+                "name": "Shanghai-style Braised Pork Belly (Hong Shao Rou)",
+                "ingredients": [
+                    "1 lb pork belly, cut into small cubes",
+                    "2 cups water",
+                    "1/4 cup Shaoxing wine",
+                    "1/4 cup dark soy sauce",
+                    "1 tbsp light soy sauce",
+                    "1 tbsp rock sugar or granulated sugar",
+                    "3 slices ginger",
+                    "1 star anise",
+                    "2 green onions, chopped"
+                ],
+                "instructions": [
+                    "Add the pork belly to a pot of boiling water and blanch for 5 minutes. Drain and set aside.",
+                    "In another pot, add the water, Shaoxing wine, dark soy sauce, light soy sauce, rock sugar, ginger, and star anise. Stir everything together and bring to a boil.",
+                    "Add the blanched pork belly to the pot and bring back to a boil.",
+                    "Reduce the heat to low and simmer, covered, for about 60-90 minutes or until the pork belly is tenderand the sauce has thickened.",
+                    "Remove from heat and garnish with chopped green onions before serving hot with rice."
+                ]
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "1 lb fresh egg noodles",
+                    "1/2 lb ground pork",
+                    "2 tbsp chili oil",
+                    "2 tbsp Sichuan peppercorn oil",
+                    "1 tbsp minced garlic",
+                    "1 tbsp minced ginger",
+                    "2 tbsp light soy sauce",
+                    "1 tbsp dark soy sauce",
+                    "1/2 tsp sugar",
+                    "2 tbsp Sichuan peppercorns",
+                    "1/4 cup chopped scallions",
+                    "1/4 cup chopped cilantro"
+                ],
+                "instructions": [
+                    "Cook the noodles according to package instructions and set aside.",
+                    "Heat a wok over high heat. Add the pork and stir-fry until browned and cooked through, about 5-6 minutes.",
+                    "Add the garlic and ginger and stir-fry for another minute.",
+                    "Add the chili oil, Sichuan peppercorn oil, light soy sauce, dark soy sauce, and sugar. Stir-fry for another minute.",
+                    "Add the cooked noodles and toss everything together. Plate the noodles and garnish with chopped scallions and cilantro."
+                ]
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "1 lb soft or silken tofu, cut into small cubes",
+                    "1/2 lb ground pork",
+                    "2 tbsp vegetable oil",
+                    "1 tbsp minced garlic",
+                    "1 tbsp minced ginger",
+                    "2 tbsp doubanjiang (spicy bean paste)",
+                    "2 tbsp fermented black beans",
+                    "1 tbsp Sichuan peppercorns",
+                    "2 green onions, chopped",
+                    "1 tbsp cornstarch",
+                    "2 tbsp water"
+                ],
+                "instructions": [
+                    "Mix the cornstarch and water in a small bowl and set aside.",
+                    "Heat the oil in a wok over high heat. Add the pork and stir-fry until browned and cooked through, about 5-6 minutes.",
+                    "Add the garlic, ginger, doubanjiang, fermented black beans, and Sichuan peppercorns. Stir-fry for another minute.",
+                    "Add the tofu and gently stir everything together, being careful not to break up the tofu too much.",
+                    "Pour in the cornstarch slurry and stir gently to thicken the sauce.",
+                    "Remove from heat and serve hot with rice."
+                ]
+            },
+            {
+                "name": "Ma La Tang (Spicy Hot Pot)",
+                "ingredients": [
+                    "1 lb beef sirloin, thinly sliced",
+                    "1 lb lamb shoulder, thinly sliced",
+                    "1 lb shrimp, peeled and deveined",
+                    "1/2 cup enoki mushrooms",
+                    "1/2 cup sliced lotus root",
+                    "1/2 cup sliced wood ear mushrooms",
+                    "1/2 cup baby bok choy",
+                    "1/2 cup sliced carrots",
+                    "1/2 cup sliced celery",
+                    "1/2 cup sliced radish",
+                    "1/2 cup sliced Napa cabbage",
+                    "2 tbsp vegetable oil",
+                    "1 tbsp Sichuan peppercorns",
+                    "1/4 cup chili oil",
+                    "1/4 cup Sichuan peppercorn oil",
+                    "1/4 cup soy sauce",
+                    "1/4 cup Shaoxing wine",
+                    "1 tbsp sugar"
+                ],
+                "instructions": [
+                    "Fill a large pot with water and bring it to aboil over high heat.",
+                    "In the meantime, prepare all the ingredients and set them aside.",
+                    "Heat a small saucepan over medium-high heat. Add the vegetable oil and Sichuan peppercorns, and stir-fry until fragrant, about 1 minute.",
+                    "Add the chili oil, Sichuan peppercorn oil, soy sauce, Shaoxing wine, and sugar to the saucepan. Stir everything together and remove from heat.",
+                    "Once the water is boiling, reduce the heat to medium-low. Place all the prepared ingredients on plates and bowls and bring them to the table.",
+                    "To assemble the hot pot, let each person choose the ingredients they want to cook and add them to the pot. Cook for about 1-2 minutes or until the meat is cooked through.",
+                    "Remove the cooked ingredients from the pot and dip them in the sauce before eating.",
+                    "Enjoy your spicy hot pot!"
+                ]
+            },
+            {
+                "name": "Scallion Pancakes",
+                "ingredients": [
+                    "2 cups all-purpose flour",
+                    "1 tsp salt",
+                    "3/4 cup boiling water",
+                    "1/4 cup vegetable oil",
+                    "3 scallions, thinly sliced"
+                ],
+                "instructions": [
+                    "In a mixing bowl, combine flour and salt. Mix well.",
+                    "Slowly add boiling water to the mixture while stirring continuously until a dough forms.",
+                    "Knead the dough on a floured surface for about 5 minutes or until smooth.",
+                    "Divide the dough into 8 equal pieces and roll each piece out into a thin circle.",
+                    "Brush each circle with vegetable oil and sprinkle with scallions.",
+                    "Roll up each circle tightly like a jelly roll and then coil it into a snail shape.",
+                    "Flatten each coiled piece of dough with your palm and then use a rolling pin to roll it out again into a thin pancake.",
+                    "Heat a skillet over medium-high heat and cook each pancake for about 2-3 minutes on each side or until golden brown and crispy.",
+                    "Remove from heat and serve hot with soy sauce for dipping."
+                ]
+            },
+            {
+                "name": "Shanghai-style Fried Rice",
+                "ingredients": [
+                    "2 cups cooked rice, cooled",
+                    "1/2 cup diced ham",
+                    "1/2 cup frozen peas, thawed",
+                    "2 eggs, beaten",
+                    "2 tbsp vegetable oil",
+                    "2 cloves garlic, minced",
+                    "2 tbsp soy sauce",
+                    "1 tbsp Shaoxing wine",
+                    "1 tsp sugar",
+                    "2 green onions, chopped"
+                ],
+                "instructions": [
+                    "Heat a wok over high heat. Add the vegetable oil and garlic, and stir-fry for 30 seconds.",
+                    "Add the ham and peas, and stir-fry for another minute.",
+                    "Push everything to the side of the wok and add in the beaten eggs. Scramble the eggs until they are cooked through.",
+                    "Add the rice to the wok and stir-fry everything together.",
+                    "Add the soy sauce, Shaoxing wine, and sugar, and stir-fry for another 1-2 minutes or until everything is heated through.",
+                    "Remove from heat and garnish with chopped green onions before serving hot."
+                ]
+            },
+            {
+                "name": "Stir-fried Shanghai Greens (You Cai)",
+                "ingredients": [
+                    "1 lb Shanghai greens (you cai) or baby bok choy, washed and trimmed",
+                    "1 tbsp vegetable oil",
+                    "2 cloves garlic, minced",
+                    "1 tbsp oyster sauce",
+                    "1/4 cup water",
+                    "1 tsp sugar",
+                    "1/4 tsp salt"
+                ],
+                "instructions": [
+                    "Heat a wok over high heat. Add the vegetable oil and garlic, stir-fry for 30 seconds.",
+                    "Add the Shanghai greens or baby bok choy to the wok and stir-fry for 1-2 minutes or until just wilted.",
+                    "Add the oyster sauce, water, sugar, and salt, and continue stir-frying for another minute or until the greens are coated in the sauce and tender.",
+                    "Remove from heat and serve hot as a side dish."
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Xia Liu Zha",
+        "experience_years": 10,
+        "likes": [
+            "Cantonese cuisine",
+            "seafood"
+        ],
+        "picture_url": "https://goldbelly.imgix.net/uploads/merchant/food_maker_image/755/Food_Maker_Template.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+        "recipes": [
+            {
+                "name": "Steamed Fish with Ginger and Scallions",
+                "ingredients": [
+                    "1 whole fish, cleaned and scaled (e.g., sea bass or red snapper)",
+                    "3 cloves garlic, minced",
+                    "2 inches ginger, julienned",
+                    "2 scallions, thinly sliced",
+                    "2 tbsp vegetable oil",
+                    "2 tbsp soy sauce",
+                    "1 tbsp Shaoxing wine",
+                    "1 tsp sugar",
+                    "1/4 cup water"
+                ],
+                "instructions": [
+                    "Place the whole fish on a heat-proof plate that will fit inside a steamer basket.",
+                    "Scatter the minced garlic, ginger, and sliced scallions all over the top of the fish.",
+                    "In a small bowl, mix together soy sauce, Shaoxing wine, sugar, and water. Pour this mixture over the fish.",
+                    "Fill a wok or large pot with about 1-2 inches of water and bring it to a boil over high heat.",
+                    "Place the plate with the fish in the steamer basket and carefully lower it into the wok or pot.",
+                    "Cover the steamer basket with a lid and steam the fish for about 10-15 minutes or until cooked through.",
+                    "Remove the steamer basket from the wok or pot and carefully remove the lid. Use a spoon to remove any excess water that may have collected on top of the fish.",
+                    "Heat the vegetable oil in a small saucepan over high heat. Once hot, pour the oil over the fish.",
+                    "Garnish with additional sliced scallions before serving hot with rice."
+                ]
+            },
+            {
+                "name": "Cantonese-style Lobster",
+                "ingredients": [
+                    "2 live lobsters (about 1 1/2 lbs each), cleaned and halved",
+                    "1/4 cup Shaoxing wine",
+                    "1/4 cup soy sauce",
+                    "1/4 cup oyster sauce",
+                    "1 tbsp sugar",
+                    "3 cloves garlic, minced",
+                    "2 inches ginger, julienned",
+                    "2 scallions, thinly sliced",
+                    "1/4 cup vegetable oil"
+                ],
+                "instructions": [
+                    "Preheat the broiler on high.",
+                    "In a mixing bowl, combine Shaoxing wine, soy sauce, oyster sauce, and sugar. Mix well.",
+                    "Place the lobster halves on a baking sheet, flesh side up, and brush them generously with the sauce mixture.",
+                    "Broil the lobster halves in the preheated oven for about 8-10 minutes or until the shells are red and the meat is cooked through.",
+                    "Meanwhile, heat the vegetable oil in a small saucepan over high heat. Once hot, add the minced garlic, ginger, and sliced scallions. Stir-fry for about 1 minute or until fragrant.",
+                    "Remove the lobster halves from the broiler and transfer them to a large platter. Pour the stir-fried garlic, ginger, and scallion mixture over the top of the lobster halves.",
+                    "Serve hot with rice."
+                ]
+            },
+            {
+                "name": "Wok-fried Clams with Black Bean Sauce",
+                "ingredients": [
+                    "2 lbs Manila clams, cleaned",
+                    "3 cloves garlic, minced",
+                    "2 inches ginger, julienned",
+                    "2 scallions, thinly sliced",
+                    "2 tbsp fermented black beans, rinsed and mashed with a fork",
+                    "1 tbsp soy sauce",
+                    "1 tbsp Shaoxing wine",
+                    "1 tsp sugar",
+                    "1/4 cup water",
+                    "2 tbsp vegetable oil"
+                ],
+                "instructions": [
+                    "Heat a wok over high heat. Add the vegetable oil and swirl it around to coat the wok.",
+                    "Add the minced garlic, ginger, and sliced scallions to the wok and stir-fry for about 30 seconds or until fragrant.",
+                    "Add the mashed fermented black beans to the wok and stir-fry for another 30 seconds.",
+                    "Add the cleaned Manila clams to the wok and stir-fry everything together.",
+                    "Add the soy sauce, Shaoxing wine, sugar, and water to the wok. Mix everything together and cover the wok with a lid.",
+                    "Cook for about 5-7 minutes or until all the clams have opened up.",
+                    "Remove from heat and discard any clams that did not open. Garnish with additional sliced scallions before serving hot with rice."
+                ]
+            },
+            {
+                "name": "Cantonese-style Steamed Spare Ribs with Black Bean Sauce",
+                "ingredients": [
+                    "1 lb pork spare ribs",
+                    "1 tbsp fermented black beans, rinsed and mashed with a fork",
+                    "2 cloves garlic, minced",
+                    "2 inches ginger, julienned",
+                    "2 scallions, thinly sliced",
+                    "2 tbsp soy sauce",
+                    "1 tbsp Shaoxing wine",
+                    "1 tsp sugar",
+                    "1/4 cup water",
+                    "1 tbsp vegetable oil"
+                ],
+                "instructions": [
+                    "Cut the pork spare ribs into bite-sized pieces and place them in a heat-proof plate that will fit inside a steamer basket.",
+                    "In a mixing bowl, combine mashed fermented black beans, minced garlic, julienned ginger, sliced scallions, soy sauce, Shaoxing wine, sugar, and water. Mix well.",
+                    "Pour this mixture over the pork spare ribs, making sure they are evenly coated.",
+                    "Fill a wok or large pot with about 1-2 inches of water and bring it to a boil over high heat.",
+                    "Place the plate with the pork spare ribs in the steamer basket and carefully lower it into the wok or pot.",
+                    "Cover the steamer basket with a lid and steam the pork spare ribs for about 30-40 minutes or until they are cooked through.",
+                    "Remove the steamer basket from the wok or pot and carefully remove the lid. Use a spoon to remove any excess water that may have collected on top of the pork spare ribs.",
+                    "Heat the vegetable oil in a small saucepan over high heat. Once hot, pour the oil over the pork spare ribs.",
+                    "Garnish with additional sliced scallions before serving hot with rice."
+                ]
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "1 lb fresh egg noodles",
+                    "1/2 lb ground pork",
+                    "2 tbsp chili oil",
+                    "2 tbsp Sichuan peppercorn oil",
+                    "1 tbsp minced garlic",
+                    "1 tbsp minced ginger",
+                    "2 tbsp light soy sauce",
+                    "1 tbsp dark soy sauce",
+                    "1/2 tsp sugar",
+                    "2 tbsp Sichuan peppercorns",
+                    "1/4 cup chopped scallions",
+                    "1/4 cup chopped cilantro"
+                ],
+                "instructions": [
+                    "Cook the noodles according to package instructions and set aside.",
+                    "Heat a wok over high heat. Add the pork and stir-fry until browned and cooked through, about 5-6 minutes.",
+                    "Add the garlic and ginger and stir-fry for another minute.",
+                    "Add the chili oil, Sichuan peppercorn oil, light soy sauce, dark soy sauce, and sugar. Stir-fry for another minute.",
+                    "Add the cooked noodles and toss everything together. Plate the noodles and garnish with chopped scallions and cilantro."
+                ]
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "1 lb soft or silken tofu, cut into small cubes",
+                    "1/2 lb ground pork",
+                    "2 tbsp vegetable oil",
+                    "1 tbsp minced garlic",
+                    "1 tbsp minced ginger",
+                    "2 tbsp doubanjiang (spicy bean paste)",
+                    "2 tbsp fermented black beans",
+                    "1 tbsp Sichuan peppercorns",
+                    "2 green onions, chopped",
+                    "1 tbsp cornstarch",
+                    "2 tbsp water"
+                ],
+                "instructions": [
+                    "Mix the cornstarch and water in a small bowl and set aside.",
+                    "Heat the oil in a wok over high heat. Add the pork and stir-fry until browned and cooked through, about 5-6 minutes.",
+                    "Add the garlic, ginger, doubanjiang, fermented black beans, and Sichuan peppercorns. Stir-fry for another minute.",
+                    "Add the tofu and gently stir everything together, being careful not to break up the tofu too much.",
+                    "Pour in the cornstarch slurry and stir gently to thicken the sauce.",
+                    "Remove from heat and serve hot with rice."
+                ]
+            },
+            {
+                "name": "Ma La Tang (Spicy Hot Pot)",
+                "ingredients": [
+                    "1 lb beef sirloin, thinly sliced",
+                    "1 lb lamb shoulder, thinly sliced",
+                    "1 lb shrimp, peeled and deveined",
+                    "1/2 cup enoki mushrooms",
+                    "1/2 cup sliced lotus root",
+                    "1/2 cup sliced wood ear mushrooms",
+                    "1/2 cup baby bok choy",
+                    "1/2 cup sliced carrots",
+                    "1/2 cup sliced celery",
+                    "1/2 cup sliced radish",
+                    "1/2 cup sliced Napa cabbage",
+                    "2 tbsp vegetable oil",
+                    "1 tbsp Sichuan peppercorns",
+                    "1/4 cup chili oil",
+                    "1/4 cup Sichuan peppercorn oil",
+                    "1/4 cup soy sauce",
+                    "1/4 cup Shaoxing wine",
+                    "1 tbsp sugar"
+                ],
+                "instructions": [
+                    "Fill a large pot with water and bring it to aboil over high heat.",
+                    "In the meantime, prepare all the ingredients and set them aside.",
+                    "Heat a small saucepan over medium-high heat. Add the vegetable oil and Sichuan peppercorns, and stir-fry until fragrant, about 1 minute.",
+                    "Add the chili oil, Sichuan peppercorn oil, soy sauce, Shaoxing wine, and sugar to the saucepan. Stir everything together and remove from heat.",
+                    "Once the water is boiling, reduce the heat to medium-low. Place all the prepared ingredients on plates and bowls and bring them to the table.",
+                    "To assemble the hot pot, let each person choose the ingredients they want to cook and add them to the pot. Cook for about 1-2 minutes or until the meat is cooked through.",
+                    "Remove the cooked ingredients from the pot and dip them in the sauce before eating.",
+                    "Enjoy your spicy hot pot!"
+                ]
+            }
+        ]
+    }
+]
