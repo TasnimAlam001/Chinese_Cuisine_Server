@@ -8,7 +8,9 @@
         "picture_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ken_Hom_holding_wok.jpg",
         "recipes": [
             {
+                "id":1,
                 "name": "Kung Pao Chicken",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb chicken breast, cut into small cubes",
                     "1/2 cup roasted peanuts",
@@ -32,7 +34,9 @@
                 ]
             },
             {
+                "id":2,
                 "name": "Dan Dan Noodles",
+                "rating":4.7,
                 "ingredients": [
                     "1 lb fresh egg noodles",
                     "1/2 lb ground pork",
@@ -56,7 +60,9 @@
                 ]
             },
             {
+                "id":3,
                 "name": "Mapo Tofu",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb soft or silken tofu, cut into small cubes",
                     "1/2 lb ground pork",
@@ -80,7 +86,9 @@
                 ]
             },
             {
+                "id":4,
                 "name": "Ma La Tang (Spicy Hot Pot)",
+                "rating":4,
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "1 lb lamb shoulder, thinly sliced",
@@ -113,7 +121,9 @@
                 ]
             },
             {
+                "id":5,
                 "name": "Sichuan Boiled Beef (Shui Zhu Niu Rou)",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "2 cups beef stock or water",
@@ -138,7 +148,9 @@
                 ]
             },
             {
+                "id":6,
                 "name": "Shanghai-style Braised Pork Belly (Hong Shao Rou)",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb pork belly, cut into small cubes",
                     "2 cups water",
@@ -159,7 +171,9 @@
                 ]
             },
             {
+                "id":7,
                 "name": "Scallion Pancakes",
+                "rating":4.5,
                 "ingredients": [
                     "2 cups all-purpose flour",
                     "1 tsp salt",
@@ -180,7 +194,9 @@
                 ]
             },
             {
+                "id":8,
                 "name": "Shanghai-style Fried Rice",
+                "rating":4.5,
                 "ingredients": [
                     "2 cups cooked rice, cooled",
                     "1/2 cup diced ham",
@@ -203,7 +219,9 @@
                 ]
             },
             {
+                "id":9,
                 "name": "Stir-fried Shanghai Greens (You Cai)",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb Shanghai greens (you cai) or baby bok choy, washed and trimmed",
                     "1 tbsp vegetable oil",
@@ -231,7 +249,9 @@
         "picture_url": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/about-1_645X.jpg?v=1628774387",
         "recipes": [
             {
+                "id":1,
                 "name": "Xiao Long Bao (Soup Dumplings)",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb ground pork",
                     "1/4 cup chopped bamboo shoots",
@@ -255,7 +275,9 @@
                 ]
             },
             {
+                "id":2,
                 "name": "Shanghai-style Braised Pork Belly (Hong Shao Rou)",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb pork belly, cut into small cubes",
                     "2 cups water",
@@ -276,7 +298,9 @@
                 ]
             },
             {
+                "id":3,
                 "name": "Scallion Pancakes",
+                "rating":4.5,
                 "ingredients": [
                     "2 cups all-purpose flour",
                     "1 tsp salt",
@@ -297,7 +321,9 @@
                 ]
             },
             {
+                "id":4,
                 "name": "Shanghai-style Fried Rice",
+                "rating":4.5,
                 "ingredients": [
                     "2 cups cooked rice, cooled",
                     "1/2 cup diced ham",
@@ -320,7 +346,9 @@
                 ]
             },
             {
+                "id":5,
                 "name": "Stir-fried Shanghai Greens (You Cai)",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb Shanghai greens (you cai) or baby bok choy, washed and trimmed",
                     "1 tbsp vegetable oil",
@@ -348,7 +376,9 @@
         "picture_url": "https://assets.vogue.in/photos/6035e55a97a6d928a4e6ea0c/2:3/w_2560%2Cc_limit/Chef%2520Andrew%2520Wong.jpg",
         "recipes": [
             {
+                "id":1,
                 "name": "Steamed Fish with Ginger and Scallions",
+                "rating":4.5,
                 "ingredients": [
                     "1 whole fish, cleaned and scaled (e.g., sea bass or red snapper)",
                     "3 cloves garlic, minced",
@@ -373,7 +403,9 @@
                 ]
             },
             {
+                "id":2,
                 "name": "Cantonese-style Lobster",
+                "rating":4.5,
                 "ingredients": [
                     "2 live lobsters (about 1 1/2 lbs each), cleaned and halved",
                     "1/4 cup Shaoxing wine",
@@ -396,7 +428,9 @@
                 ]
             },
             {
+                "id":3,
                 "name": "Wok-fried Clams with Black Bean Sauce",
+                "rating":4.5,
                 "ingredients": [
                     "2 lbs Manila clams, cleaned",
                     "3 cloves garlic, minced",
@@ -420,7 +454,9 @@
                 ]
             },
             {
+                "id":4,
                 "name": "Cantonese-style Steamed Spare Ribs with Black Bean Sauce",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb pork spare ribs",
                     "1 tbsp fermented black beans, rinsed and mashed with a fork",
@@ -446,7 +482,9 @@
                 ]
             },
             {
+                "id":5,
                 "name": "Dan Dan Noodles",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb fresh egg noodles",
                     "1/2 lb ground pork",
@@ -470,7 +508,9 @@
                 ]
             },
             {
+                "id":6,
                 "name": "Mapo Tofu",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb soft or silken tofu, cut into small cubes",
                     "1/2 lb ground pork",
@@ -494,7 +534,9 @@
                 ]
             },
             {
+                "id":7,
                 "name": "Ma La Tang (Spicy Hot Pot)",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "1 lb lamb shoulder, thinly sliced",
@@ -537,7 +579,9 @@
         "picture_url": "https://chinavillagealbany.com/wp-content/uploads/sites/17/2013/06/portraitjhon3.jpg",
         "recipes": [
             {
+                "id":1,
                 "name": "Kung Pao Chicken",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb chicken breast, cut into small cubes",
                     "1/2 cup roasted peanuts",
@@ -561,7 +605,9 @@
                 ]
             },
             {
+                "id":2,
                 "name": "Dan Dan Noodles",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb fresh egg noodles",
                     "1/2 lb ground pork",
@@ -585,7 +631,9 @@
                 ]
             },
             {
+                "id":3,
                 "name": "Mapo Tofu",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb soft or silken tofu, cut into small cubes",
                     "1/2 lb ground pork",
@@ -609,7 +657,9 @@
                 ]
             },
             {
+                "id":4,
                 "name": "Ma La Tang (Spicy Hot Pot)",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "1 lb lamb shoulder, thinly sliced",
@@ -642,7 +692,9 @@
                 ]
             },
             {
+                "id":5,
                 "name": "Sichuan Boiled Beef (Shui Zhu Niu Rou)",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "2 cups beef stock or water",
@@ -670,6 +722,7 @@
     },
     {
         "id": 5,
+        "rating":4.5,
         "name": "Yuang Le Son",
         "experience_years": 20,
         "quote": "Cooking from scratch doesn't have to be complicated. It's all about getting the basics right.",
@@ -677,6 +730,7 @@
         "picture_url": "https://www.manhomanila.com/resourcefiles/meet-the-chef-image/chan-chi-fai.jpg",
         "recipes": [
             {
+                "id":1,
                 "name": "Xiao Long Bao (Soup Dumplings)",
                 "ingredients": [
                     "1 lb ground pork",
@@ -701,7 +755,9 @@
                 ]
             },
             {
+                "id":2,
                 "name": "Shanghai-style Braised Pork Belly (Hong Shao Rou)",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb pork belly, cut into small cubes",
                     "2 cups water",
@@ -722,7 +778,9 @@
                 ]
             },
             {
+                "id":3,
                 "name": "Dan Dan Noodles",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb fresh egg noodles",
                     "1/2 lb ground pork",
@@ -746,7 +804,9 @@
                 ]
             },
             {
+                "id":4,
                 "name": "Mapo Tofu",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb soft or silken tofu, cut into small cubes",
                     "1/2 lb ground pork",
@@ -770,7 +830,9 @@
                 ]
             },
             {
+                "id":5,
                 "name": "Ma La Tang (Spicy Hot Pot)",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "1 lb lamb shoulder, thinly sliced",
@@ -803,7 +865,9 @@
                 ]
             },
             {
+                "id":6,
                 "name": "Scallion Pancakes",
+                "rating":4.5,
                 "ingredients": [
                     "2 cups all-purpose flour",
                     "1 tsp salt",
@@ -824,7 +888,9 @@
                 ]
             },
             {
+                "id":7,
                 "name": "Shanghai-style Fried Rice",
+                "rating":4.5,
                 "ingredients": [
                     "2 cups cooked rice, cooled",
                     "1/2 cup diced ham",
@@ -847,7 +913,9 @@
                 ]
             },
             {
+                "id":8,
                 "name": "Stir-fried Shanghai Greens (You Cai)",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb Shanghai greens (you cai) or baby bok choy, washed and trimmed",
                     "1 tbsp vegetable oil",
@@ -870,13 +938,15 @@
         "id": 6,
         "name": "Xia Liu Zha",
         "quote": "Cooking is not a job, it's a passion. It gives me great pleasure to see people enjoying my dishes.",
-
+        "rating":4.5,
         "experience_years": 10,
         "likes": 1900,
         "picture_url": "https://goldbelly.imgix.net/uploads/merchant/food_maker_image/755/Food_Maker_Template.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
         "recipes": [
             {
+                "id":1,
                 "name": "Steamed Fish with Ginger and Scallions",
+                "rating":4.5,
                 "ingredients": [
                     "1 whole fish, cleaned and scaled (e.g., sea bass or red snapper)",
                     "3 cloves garlic, minced",
@@ -901,7 +971,9 @@
                 ]
             },
             {
+                "id":2,
                 "name": "Cantonese-style Lobster",
+                "rating":4.5,
                 "ingredients": [
                     "2 live lobsters (about 1 1/2 lbs each), cleaned and halved",
                     "1/4 cup Shaoxing wine",
@@ -924,7 +996,9 @@
                 ]
             },
             {
+                "id":3,
                 "name": "Wok-fried Clams with Black Bean Sauce",
+                "rating":4.5,
                 "ingredients": [
                     "2 lbs Manila clams, cleaned",
                     "3 cloves garlic, minced",
@@ -948,7 +1022,9 @@
                 ]
             },
             {
+                "id":4,
                 "name": "Cantonese-style Steamed Spare Ribs with Black Bean Sauce",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb pork spare ribs",
                     "1 tbsp fermented black beans, rinsed and mashed with a fork",
@@ -974,7 +1050,9 @@
                 ]
             },
             {
+                "id":5,
                 "name": "Dan Dan Noodles",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb fresh egg noodles",
                     "1/2 lb ground pork",
@@ -998,7 +1076,9 @@
                 ]
             },
             {
+                "id":6,
                 "name": "Mapo Tofu",
+                "rating":4.5,
                 "ingredients": [
                     "1 lb soft or silken tofu, cut into small cubes",
                     "1/2 lb ground pork",
@@ -1022,7 +1102,8 @@
                 ]
             },
             {
-                "name": "Ma La Tang (Spicy Hot Pot)",
+                "id":7,
+                "name": "Ma La Tang (Spicy Hot Pot)","rating":4.5,
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "1 lb lamb shoulder, thinly sliced",
