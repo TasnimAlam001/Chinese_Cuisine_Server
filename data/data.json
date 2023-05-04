@@ -2,11 +2,9 @@
     {
         "id": 1,
         "name": "Li Chen",
-        "experience_years": 15,
-        "likes": [
-            "Sichuan cuisine",
-            "spicy food"
-        ],
+        "experience_years": 45,
+        "quote": "A recipe has no soul. You, as the cook, must bring soul to the recipe.",
+        "likes": 3500,
         "picture_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ken_Hom_holding_wok.jpg",
         "recipes": [
             {
@@ -228,10 +226,8 @@
         "id": 2,
         "name": "Wei Zhang",
         "experience_years": 20,
-        "likes": [
-            "Shanghai cuisine",
-            "dumplings"
-        ],
+        "quote": "I love the fact that when I'm cooking, I'm creating something tangible and real, rather than just pushing words around on a page.",
+        "likes": 1500,
         "picture_url": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/about-1_645X.jpg?v=1628774387",
         "recipes": [
             {
@@ -347,10 +343,8 @@
         "id": 3,
         "name": "Xia Liu",
         "experience_years": 10,
-        "likes": [
-            "Cantonese cuisine",
-            "seafood"
-        ],
+        "quote": "Cooking is one of the great gifts you can give to those you love.",
+        "likes": 1200,
         "picture_url": "https://assets.vogue.in/photos/6035e55a97a6d928a4e6ea0c/2:3/w_2560%2Cc_limit/Chef%2520Andrew%2520Wong.jpg",
         "recipes": [
             {
@@ -538,10 +532,8 @@
         "id": 4,
         "name": "Li Huang",
         "experience_years": 25,
-        "likes": [
-            "Sichuan cuisine",
-            "spicy food"
-        ],
+        "quote": "Cooking is not just about the recipe, it's about how you interpret the ingredients and make them your own.",
+        "likes": 2023,
         "picture_url": "https://chinavillagealbany.com/wp-content/uploads/sites/17/2013/06/portraitjhon3.jpg",
         "recipes": [
             {
@@ -680,10 +672,8 @@
         "id": 5,
         "name": "Yuang Le Son",
         "experience_years": 20,
-        "likes": [
-            "Shanghai cuisine",
-            "dumplings"
-        ],
+        "quote": "Cooking from scratch doesn't have to be complicated. It's all about getting the basics right.",
+        "likes": 1700,
         "picture_url": "https://www.manhomanila.com/resourcefiles/meet-the-chef-image/chan-chi-fai.jpg",
         "recipes": [
             {
@@ -879,11 +869,10 @@
     {
         "id": 6,
         "name": "Xia Liu Zha",
+        "quote": "Cooking is not a job, it's a passion. It gives me great pleasure to see people enjoying my dishes.",
+
         "experience_years": 10,
-        "likes": [
-            "Cantonese cuisine",
-            "seafood"
-        ],
+        "likes": 1900,
         "picture_url": "https://goldbelly.imgix.net/uploads/merchant/food_maker_image/755/Food_Maker_Template.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
         "recipes": [
             {
